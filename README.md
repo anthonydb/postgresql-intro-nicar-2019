@@ -7,10 +7,11 @@ This repo includes data, sample queries, and a [PDF of slides](https://github.co
 
 ## Topics
 * A few basic queries
-* Stats functions
+* Creating a function
 * Spatial queries with PostGIS
 * Full-text search
-* Creating functions
+* Statistical functions
+
 
 ## Setup
 If you're trying this at home, here's how to get rolling (you will need to have PostgreSQL installed, along with the PostGIS extension).
