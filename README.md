@@ -17,4 +17,4 @@ If you're trying this at home, here's how to get rolling (you will need to have 
 
 * Download this repo to your computer.
 * To create tables and load data, execute the queries in the file [pg_create_import.sql](https://github.com/anthonydb/postgresql-intro-nicar2019/blob/master/pg_create_import.sql) using pgAdmin, the psql command-line tool, or another GUI. Note that you will need to load a Census shapefile using a command-line utility noted at the end of the file.
-* You can then run the queries in [pg_demo_queries.sql](https://github.com/anthonydb/postgresql-intro-nicar19/blob/master/pg_demo_queries.sql)
+* You can then run the queries in [pg_demo_queries.sql](https://github.com/anthonydb/postgresql-intro-nicar2019/blob/master/pg_demo_queries.sql)
